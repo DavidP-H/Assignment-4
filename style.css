@@ -1,0 +1,52 @@
+body {
+  background-image: linear-gradient(rgb(24, 24, 24), rgb(109, 109, 109));
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.all {
+  text-align: center;
+  color: white;
+  font-size: 150%;
+  font-family: 'Oswald', sans-serif;
+  margin: 10%;
+}
+
+/*This color needs changing and also it's being weird idk*/
+.headline {
+  background-color: rgb(13, 13, 13);
+  color: white;
+  position: relative;
+  padding: 20px;
+  outline-color: rgb(13, 13, 13);
+  outline-style: solid;
+  outline-width: 20px;
+  top: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+}
+
+#timheader {
+  font-family: 'Orelega One', cursive;
+}
+
+#tim {
+  width: 25%;
+  height: 25%;
+  border-color: white;
+  border-radius: 50%;
+  border-style: solid;
+}
+
+#quote {
+  font-family: 'Antonio', sans-serif;
+  font-size: 250%;
+  margin: 20%;
+}
+
+a:link, a:visited {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 150%;
+}

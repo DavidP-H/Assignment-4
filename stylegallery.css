@@ -1,0 +1,28 @@
+body {
+  background-image: linear-gradient(black, rgb(79, 79, 79));
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#header {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  margin: 200px;
+}
+
+.image {
+  border-color: white;
+  border-style: ridge;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  margin-bottom: 200px;
+  width: 50%;
+  display: block;
+  color: white;
+  text-align: center;
+  font-family: 'Antonio', sans-serif;
+  font-size: 200%;
+  padding: 7px;
+}
